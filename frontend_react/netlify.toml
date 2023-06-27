@@ -1,3 +1,0 @@
-[build]
-  base = "frontend_react\build"
-  command = "npm run build"
