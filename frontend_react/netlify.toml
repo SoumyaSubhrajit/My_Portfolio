@@ -1,0 +1,3 @@
+[build]
+  base = "E:\My_Portfolio\frontend_react\build"
+  command = "npm run build"
