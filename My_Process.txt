@@ -1,0 +1,46 @@
+///////////////  Step by Step process to make the portfolio /////////////////
+
+1. Create a back-end folder for the sanity and istall sanity as well.
+2. After down the sanity and config it, then buiid a schema like "testimonial.js" or
+   somthing and add the "index.js" file of schema folder of sanity.
+   NOTE: See the index.ts is a type sckript so, import the file and add the "scemaType[]"
+
+3. So add some more info schemas into the sanity DB like about,skill etc.
+4. Intialize the react app in the main ground.
+5. Do the file sturture in the frontend_react do the folder_Strucure.
+6. Add the section folder in the conatiner like footer, About,skill etc.
+   Inside the container we can add the theam that we want to display in the website.
+7. Then we goona create a index.js file to export everything at one place to the App.js.
+8. Then we goona do the components section add Navbar to that section and add JSX and     file to the folder and do exactly like before like we gonna add the index.js file to export
+   at once.
+9. import the image to the asset folder and add another image.js file to globaly export 
+   all the images.   
+
+
+
+// Some Important notes..
+1. when you forgot some images to uplode into DB then you get a big fat error.
+2. Inside the project I use motion for the animation purpose and wrap inside the "div" and gave some   
+   Properties to do some action when the page is re-load. It coming from framer-motion.
+
+3. I use tooltip in the project..
+  Tooltip:
+      React-tooltip is a library that provides tooltips, which are small pop-up windows that appear when the user hovers over or interacts with an element on a web page. The tooltips typically contain additional information or context about the element, enhancing the user experience and providing helpful hints or descriptions.
+  
+      The use cases for react-tooltip can vary depending on the specific requirements of a web application, but here are a few common scenarios where tooltips are beneficial:
+
+      Additional information: Tooltips can be used to display supplementary information about an element. For example, if you have an icon representing a specific action, you can use a tooltip to provide a brief explanation of what the action does when the user hovers over the icon.
+
+4. We use a MotionWrapper to gave a nice animation to every single componet and along with a AppWrapper and
+with the buttons. 
+
+5. flex: 1;
+  In CSS, the flex: 1; property is used within a flex container to define the flex-grow, flex-shrink, and flex-basis values of flex items. It is a shorthand property that combines three individual properties: flex-grow, flex-shrink, and flex-basis.
+
+6. felx-wrap: wrap;
+    When you set flex-wrap: wrap;, it means that flex items will wrap onto multiple lines if they cannot fit within a single line. This allows for a responsive layout where flex items can dynamically adjust their positioning based on available space.
+
+7. MotionWrap: 
+   We use motion wrap to wrap means to gave each components some motion while scroll or any animation useEffect  
+   to every componet we use a Motionwrap componet and enclose every component to this class to ensure
+   we are achive that animation effect in envery section. 
