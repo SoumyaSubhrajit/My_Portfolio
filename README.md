@@ -1,6 +1,6 @@
 # Soumya Subhrajit Portfolio
 
-![Soumya Subhrajit](https://ibb.co/mrpmwkk)
+![Soumya Subhrajit](https://i.ibb.co/wZtTXVV/Soumya-Subhrajit-Google-Chrome-11-07-2023-22-38-19-2.png)
 
 ## Introduction
 
