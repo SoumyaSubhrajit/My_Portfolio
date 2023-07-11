@@ -1,6 +1,6 @@
 # Soumya Subhrajit Portfolio
 
-![Micael](https://drive.google.com/file/d/1thHCxMpCGPLsIdVSmrHdYGZVDuBCPmId/view?usp=sharing)
+![Soumya Subhrajit](https://ibb.co/mrpmwkk)
 
 ## Introduction
 
