@@ -4,10 +4,8 @@
 
 ## Introduction
 
-This is a code repository for the corresponding video tutorial.
+My name is Soumya Subhrajit Bag, and I am a highly motivated engineering graduate with expertise in Full Stack Web development. My proficiency includes utilizing various tools such as Java, JavaScript, ReactJs, NodeJs, ExpressJs, NextJs, MySql, MongoDB, and Servlet to create exceptional web applications. I am genuinely excited about the prospect of joining your any organization.
 
-Do you know the best way to show your skills to employers or potential clients? Stand out from the crowd by presenting a well-digitalized flexible portfolio and get your dream job.
+## Stay up to date with my new projects
 
-## Stay up to date with new projects
-
-New major projects coming soon, subscribe to the mailing list to stay up to date https://resource.jsmasterypro.com/newsletter
+New major projects coming soon, https://soumyasubhrajit.netlify.app/
